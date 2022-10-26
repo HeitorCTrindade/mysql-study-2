@@ -162,7 +162,7 @@ INSERT INTO SpotifyClone.musics (name, artists_id, albums_id, duration)
     
 INSERT INTO SpotifyClone.history (users_id, musics_id, reprodution_date)
   VALUES
-    (1,	7,	'2022-02-28 10:45:55'),
+    (1,	8,	'2022-02-28 10:45:55'),
     (1,	2,	'2020-05-02 05:30:35'),
     (1,	10,	'2020-03-06 11:22:33'),
     (2,	10,	'2022-08-05 08:05:17'),
@@ -177,7 +177,7 @@ INSERT INTO SpotifyClone.history (users_id, musics_id, reprodution_date)
     (7,	4,	'2011-12-15 22:30:49'),
     (8, 4,	'2012-03-17 14:56:41'),
     (9,	9,	'2022-02-24 21:14:22'),
-    (10, 2,	'2015-12-13 08:30:22');
+    (10, 3,	'2015-12-13 08:30:22');
     
 INSERT INTO SpotifyClone.folowers (users_id, artists_id)
   VALUES
