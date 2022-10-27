@@ -7,3 +7,4 @@ WHERE
     a.name = "Elis Regina"
 group by a.name, alb.name
 ORDER BY alb.name;
+
